@@ -3,6 +3,8 @@ ic-07 - Intro to D3
 
 Link to GitHub Pages: https://ds4200-s22.github.io/ic-07-abyan-n/
 
+Note/Final Edit: All code working , completed assignment: ic-07
+
 ## Purpose
 
 The purpose of this assignment is to start learning how to use D3.js to build custom visualizations.  
